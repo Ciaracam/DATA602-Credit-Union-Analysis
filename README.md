@@ -6,5 +6,5 @@ Analysis of U.S. credit union financial performance and loan growth using NCUA q
 ## Group Members
 -Ciara Cameron
 -Brandon Nguyen
-a
+
 
