@@ -2,3 +2,4 @@ call-report-data-*/
 *.zip
 .ipynb_checkpoints/
 .DS_Store
+.venv/
