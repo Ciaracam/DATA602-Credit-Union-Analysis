@@ -27,7 +27,7 @@ download_data.ipynb - downloads and extracts the NCUA data
 
 requirements.txt - required Python packages
 
-##Reproducing the Analysis
+## Reproducing the Analysis
 
 Clone or download this repository.
 
