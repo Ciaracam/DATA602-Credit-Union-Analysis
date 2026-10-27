@@ -4,10 +4,10 @@
 Analysis of U.S. credit union financial performance and loan growth using NCUA quarterly Call Report data.
 
 ## Group Members
--Ciara Cameron
--Brandon Nguyen
+- Ciara Cameron
+- Brandon Nguyen
 
-##Data
+## Data
 
 Quarterly NCUA Call Report data from Q2 2022 through Q2 2026.
 
@@ -19,7 +19,7 @@ FS220A.txt
 
 FOICU.txt
 
-##Repository Files
+## Repository Files
 
 DATA602_Credit_Union_Checkpoint2.ipynb - main analysis notebook
 
@@ -41,7 +41,7 @@ Open DATA602_Credit_Union_Checkpoint2.ipynb.
 
 Run the notebook from top to bottom.
 
-##Analysis
+## Analysis
 
 The project includes data cleaning, quarter-over-quarter loan growth calculations, exploratory data analysis, statistical analysis, and hypothesis testing
 
